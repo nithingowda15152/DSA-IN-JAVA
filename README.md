@@ -17,6 +17,6 @@ I upload my work every day to track progress and build consistency.
 - Day 05 → conditional Statements(problems)
 - Day 06 → Loops
 - Day 06 → Loops(Problems)
-- Day 07 → Functions&Methos
+- Day 07 → Functions&Methods
 - More coming soon...
 
