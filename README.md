@@ -20,5 +20,6 @@ I upload my work every day to track progress and build consistency.
 - Day 06 → some more problems on Loops
 - Day 08 → Functions&Methods
 - Day 09 → Functions&Methods(Problems)
+- Day 10 → Problems Related to method calling
 - More coming soon...
 
