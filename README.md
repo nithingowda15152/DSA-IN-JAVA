@@ -21,5 +21,6 @@ I upload my work every day to track progress and build consistency.
 - Day 08 → Functions&Methods
 - Day 09 → Functions&Methods(Problems)
 - Day 10 → Problems Related to method calling
+- Day 10 → Arrays
 - More coming soon...
 
